@@ -1,0 +1,9 @@
+CREATE_USER,test1@user.com,password123
+CREATE_USER,test2@user.com,password456
+CREATE_EVENT,Tech Talk,1
+ADD_QUESTION,What is Docker?,1,1
+ADD_QUESTION,How does Kubernetes work?,2,1
+UPVOTE_QUESTION,1,2
+UPVOTE_QUESTION,2,1
+REPLY_QUESTION,Docker is a containerization platform,1,2
+LIST_QUESTIONS,1,POPULAR
