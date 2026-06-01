@@ -1,6 +1,9 @@
 # Crio platform files
 __CRIO__/
 
+# Test output files (generated)
+**/test/resources/**/output.txt
+
 # Created by https://www.toptal.com/developers/gitignore/api/java,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,gradle
 
